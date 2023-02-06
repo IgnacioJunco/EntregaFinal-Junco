@@ -45,3 +45,7 @@ ________________________________________________________________________________
 # Templates:
 Es una carpeta donde se encuentran todos los archivos HTML,usados por la app. Se utilza una platilla de BOOSTRAP y se aplica el concep de herencia a cada archivo.
 
+_______________________________________________________________________________________________________________________________________________________________________
+# Video Ejemplar:
+https://www.youtube.com/watch?v=-2znnEn5tNM
+
